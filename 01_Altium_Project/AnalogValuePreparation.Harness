@@ -1,0 +1,2 @@
+Analog Outputs=UZK,Iu,Iv,Iw,U1,V1,W1
+Analog_Connector=U_ZK+,U_ZK-,U_DC+,U_DC-,I_U,I_V,I_W,Volt_U+,Volt_U-,Volt_V+,Volt_V-,Volt_W+,Volt_W-

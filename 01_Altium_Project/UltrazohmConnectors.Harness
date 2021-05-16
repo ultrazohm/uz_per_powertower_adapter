@@ -1,0 +1,3 @@
+Analog Outputs=UZK,Iu,Iv,Iw,U1,V1,W1
+DigCon_DIG_IO_Faults=DIG_IO_Fault1,DIG_IO_Fault4,DIG_IO_Fault2,DIG_IO_Fault5,DIG_IO_Fault3,DIG_IO_Fault6
+DigCon_DIG_IO_Gates=DIG_IO_Gate1,DIG_IO_Gate4,DIG_IO_Gate2,DIG_IO_Gate5,DIG_IO_Gate3,DIG_IO_Gate6
