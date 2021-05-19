@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\wilflingti66489\Documents\powertower_adapter_uz\01_Altium_Project\PCB2.PcbDoc
 Date     : 19.05.2021
-Time     : 12:22:35
+Time     : 12:51:23
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
    Violation between Clearance Constraint: (0.423mm < 0.5mm) Between Pad J1-A1(155mm,23.3mm) on Multi-Layer And Pad J1-A2(153.222mm,22.284mm) on Multi-Layer 
