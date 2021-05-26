@@ -1,31 +1,22 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\wilflingti66489\Documents\powertower_adapter_uz\01_Altium_Project\PCB2.PcbDoc
-Date     : 19.05.2021
-Time     : 12:51:23
+Date     : 26.05.2021
+Time     : 11:13:10
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.423mm < 0.5mm) Between Pad J1-A1(155mm,23.3mm) on Multi-Layer And Pad J1-A2(153.222mm,22.284mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.423mm < 0.5mm) Between Pad J1-B1(155mm,39.048mm) on Multi-Layer And Pad J1-B2(153.222mm,38.032mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad P8-2(6.2mm,25.1mm) on Multi-Layer And Pad P8-3(6.2mm,27.6mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X4-1(5.5mm,67.9mm) on Multi-Layer And Pad X4-2(5.5mm,70.4mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X4-2(5.5mm,70.4mm) on Multi-Layer And Pad X4-3(5.5mm,72.9mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X5-1(5.4mm,57.1mm) on Multi-Layer And Pad X5-2(5.4mm,59.6mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X5-2(5.4mm,59.6mm) on Multi-Layer And Pad X5-3(5.4mm,62.1mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X6-1(5.4mm,45.8mm) on Multi-Layer And Pad X6-2(5.4mm,48.3mm) on Multi-Layer 
-   Violation between Clearance Constraint: (0.4mm < 0.5mm) Between Pad X6-2(5.4mm,48.3mm) on Multi-Layer And Pad X6-3(5.4mm,50.8mm) on Multi-Layer 
-Rule Violations :9
+   Violation between Clearance Constraint: (0.268mm < 0.33mm) Between Pad J1-B1(155mm,39.048mm) on Multi-Layer And Track (155.621mm,40.386mm)(156.464mm,39.543mm) on Top Copper 
+Rule Violations :1
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net 5V Between Pad U3-16(117.983mm,47.683mm) on Top Copper And Pad U3-12(123.063mm,47.683mm) on Top Copper 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.13mm) (All)
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
@@ -395,6 +386,10 @@ Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R84-1(130.922mm,49.022mm) on Top Copper And Track (130.302mm,49.53mm)(130.302mm,49.722mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R84-2(132.222mm,49.022mm) on Top Copper And Track (132.842mm,48.322mm)(132.842mm,48.514mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R84-2(132.222mm,49.022mm) on Top Copper And Track (132.842mm,49.53mm)(132.842mm,49.722mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R85-1(146.812mm,7.508mm) on Top Copper And Track (146.112mm,8.128mm)(146.304mm,8.128mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R85-1(146.812mm,7.508mm) on Top Copper And Track (147.32mm,8.128mm)(147.512mm,8.128mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R85-2(146.812mm,6.208mm) on Top Copper And Track (146.112mm,5.588mm)(146.304mm,5.588mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R85-2(146.812mm,6.208mm) on Top Copper And Track (147.32mm,5.588mm)(147.512mm,5.588mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R9-1(54.102mm,80.66mm) on Top Copper And Track (53.402mm,81.28mm)(53.594mm,81.28mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R9-1(54.102mm,80.66mm) on Top Copper And Track (54.61mm,81.28mm)(54.802mm,81.28mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.123mm < 0.15mm) Between Pad R9-2(54.102mm,79.36mm) on Top Copper And Track (53.402mm,78.74mm)(53.594mm,78.74mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.123mm]
@@ -418,7 +413,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
    Violation between Silk To Solder Mask Clearance Constraint: (0.132mm < 0.15mm) Between Pad X8-29(150.86mm,55mm) on Multi-Layer And Track (149.844mm,51.444mm)(149.844mm,89.036mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.132mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.132mm < 0.15mm) Between Pad X8-30(150.86mm,52.46mm) on Multi-Layer And Track (149.844mm,51.444mm)(149.844mm,89.036mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.132mm]
    Violation between Silk To Solder Mask Clearance Constraint: (0.139mm < 0.15mm) Between Pad X8-30(150.86mm,52.46mm) on Multi-Layer And Track (149.844mm,51.444mm)(154.416mm,51.444mm) on Top Overlay [Top Overlay] to [Top Mask] clearance [0.139mm]
-Rule Violations :363
+Rule Violations :367
 
 Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
 Rule Violations :0
@@ -430,6 +425,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 387
+Violations Detected : 382
 Waived Violations : 0
 Time Elapsed        : 00:00:01
