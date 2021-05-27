@@ -1,11 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\wilflingti66489\Documents\powertower_adapter_uz\01_Altium_Project\PCB2.PcbDoc
 Date     : 26.05.2021
-Time     : 11:13:10
+Time     : 16:34:49
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.268mm < 0.33mm) Between Pad J1-B1(155mm,39.048mm) on Multi-Layer And Track (155.621mm,40.386mm)(156.464mm,39.543mm) on Top Copper 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -416,7 +415,11 @@ Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
 Rule Violations :367
 
 Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (0.129mm < 0.15mm) Between Text "PowerTower_AdapterUltrazohm
+T.Wilfling
+Rev. 1.0
+26.05.2021" (79.248mm,2.032mm) on Top Overlay And Text "X10" (102.87mm,8.89mm) on Top Overlay Silk Text to Silk Clearance [0.129mm]
+Rule Violations :1
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -427,4 +430,4 @@ Rule Violations :0
 
 Violations Detected : 382
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
