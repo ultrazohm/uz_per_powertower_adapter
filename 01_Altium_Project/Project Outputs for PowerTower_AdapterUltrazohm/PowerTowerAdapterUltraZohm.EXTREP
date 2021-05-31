@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PowerTowerAdapterUltraZohm.GBR   31.05.2021  16:39:28
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTS                Top Mask                                
+.GTL                Top Copper                              
+.GP1                Ground Plane 2                          
+.GP2                Ground Plane                            
+.GBL                Bottom Copper                           
+.GBS                Bottom Mask                             
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top Assembly                            
+.GM3                Mechanical 3                            
+.GM4                Top 3D Body                             
+.GM5                Mechanical 5                            
+.GM6                Bottom Assembly                         
+.GM7                Top Courtyard                           
+.GM8                Bottom Courtyard                        
+.GM9                Top Designator                          
+.GM10               Bottom Designator                       
+.GM11               Top Component Center                    
+.GM12               Bottom Component Center                 
+.GM13               Top Value                               
+.GM15               Mechanical 15                           
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------
