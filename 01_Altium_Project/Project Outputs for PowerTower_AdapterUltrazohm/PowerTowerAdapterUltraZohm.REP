@@ -2,17 +2,6 @@
 FileName = PowerTowerAdapterUltraZohm.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Value
-      File : PowerTowerAdapterUltraZohm.GM13
-
-    Adding Layer      : Top Value
-
-
-Used DCodes :
-    D101
-*************************************************************
-
-*************************************************************
 Generating : Top Copper
       File : PowerTowerAdapterUltraZohm.GTL
 
@@ -61,28 +50,25 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Designator
-      File : PowerTowerAdapterUltraZohm.GM9
+Generating : Mechanical 15
+      File : PowerTowerAdapterUltraZohm.GM15
 
-    Adding Layer      : Top Designator
-
-
-Used DCodes :
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top 3D Body
-      File : PowerTowerAdapterUltraZohm.GM4
-
-    Adding Layer      : Top 3D Body
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
     D101
-    D103
-    D104
+    D102
+*************************************************************
+
+*************************************************************
+Generating : Bottom Designator
+      File : PowerTowerAdapterUltraZohm.GM10
+
+    Adding Layer      : Bottom Designator
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -119,47 +105,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PowerTowerAdapterUltraZohm.GTO
+Generating : Mechanical 5
+      File : PowerTowerAdapterUltraZohm.GM5
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical 5
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
     D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Top Component Center
-      File : PowerTowerAdapterUltraZohm.GM11
-
-    Adding Layer      : Top Component Center
-
-
-Used DCodes :
-    D15
     D101
-    D102
-*************************************************************
-
-*************************************************************
-Generating : Bottom Assembly
-      File : PowerTowerAdapterUltraZohm.GM6
-
-    Adding Layer      : Bottom Assembly
-
-
-Used DCodes :
+    D105
 *************************************************************
 
 *************************************************************
@@ -173,15 +128,17 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : PowerTowerAdapterUltraZohm.GM1
+Generating : Top Assembly
+      File : PowerTowerAdapterUltraZohm.GM2
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Assembly
 
 
 Used DCodes :
     D15
-    D18
+    D17
+    D101
+    D102
 *************************************************************
 
 *************************************************************
@@ -205,36 +162,13 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Component Center
-      File : PowerTowerAdapterUltraZohm.GM12
+Generating : Bottom Assembly
+      File : PowerTowerAdapterUltraZohm.GM6
 
-    Adding Layer      : Bottom Component Center
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Designator
-      File : PowerTowerAdapterUltraZohm.GM10
-
-    Adding Layer      : Bottom Designator
+    Adding Layer      : Bottom Assembly
 
 
 Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : PowerTowerAdapterUltraZohm.GM7
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D15
-    D101
-    D102
 *************************************************************
 
 *************************************************************
@@ -268,6 +202,50 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : PowerTowerAdapterUltraZohm.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : PowerTowerAdapterUltraZohm.GM12
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PowerTowerAdapterUltraZohm.GM11
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D15
+    D101
+    D102
+*************************************************************
+
+*************************************************************
 Generating : Bottom Courtyard
       File : PowerTowerAdapterUltraZohm.GM8
 
@@ -275,6 +253,31 @@ Generating : Bottom Courtyard
 
 
 Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PowerTowerAdapterUltraZohm.GM4
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D101
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PowerTowerAdapterUltraZohm.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D15
+    D18
 *************************************************************
 
 *************************************************************
@@ -308,28 +311,26 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 5
-      File : PowerTowerAdapterUltraZohm.GM5
+Generating : Top Designator
+      File : PowerTowerAdapterUltraZohm.GM9
 
-    Adding Layer      : Mechanical 5
+    Adding Layer      : Top Designator
 
 
 Used DCodes :
-    D18
-    D101
-    D105
+    D14
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : PowerTowerAdapterUltraZohm.GM2
+Generating : Top Courtyard
+      File : PowerTowerAdapterUltraZohm.GM7
 
-    Adding Layer      : Top Assembly
+    Adding Layer      : Top Courtyard
 
 
 Used DCodes :
     D15
-    D17
     D101
     D102
 *************************************************************
@@ -370,15 +371,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : PowerTowerAdapterUltraZohm.GM15
+Generating : Top Value
+      File : PowerTowerAdapterUltraZohm.GM13
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Value
 
 
 Used DCodes :
     D101
-    D102
 *************************************************************
 
 *************************************************************
